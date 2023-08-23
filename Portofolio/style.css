@@ -1,0 +1,15 @@
+.jumbotron{
+    padding-top: 5rem;
+    background-color: #e2edff;
+}
+#project{
+    background-color: #e2edff;
+}
+section{
+    padding-top: 5rem;
+}
+.navbar-brand{
+    font-family: 'Abril Fatface', cursive;
+    font-weight: bold;
+    font-variant: small-caps;
+}
